@@ -1,6 +1,15 @@
 ## Empreitada crebollobr–2023e001
 
-**Executor**: [crebollobr](https://github.com/crebollobr)
+<aside>
+<table align="right" style="padding: 1em">
+<tr><td>Executor: <a target="_git" title="link para o git-user do executor" href="https://github.com/crebollobr"><big><b>crebollobr</b></big></a>, sob CNPJ  <small><a target="_cnpj" title="CNPJ contratado como executor" href="https://github.com/crebollobr">??</a></small>
+</td></tr>
+<tr><td>  Tipo: <b>Análise e Ingestão de Dados</b>   </td></tr>
+<tr><td>  Data inicio: <b>2023-02-11</b>   </td></tr>
+<tr><td>  Horas liquidas estimadas: <b>80 hs</b> (a confirmar)  </td></tr>
+<tr><td>  Data inicio: <b>2023-04-15</b>   </td></tr>
+</table>
+</aside>
 
 **Resumo**: 
 
@@ -37,12 +46,6 @@ Análise e criação do make_conf.yaml dos seguintes dados:
 1. [VE-M-Baruta/_pk0002.01](https://github.com/digital-guard/preserv-VE/tree/main/data/M/Baruta/_pk0002.01): Feito, analise facil. 
 
 1. [UY (Correo-Uruguayo) /_pk0002.01](https://github.com/digital-guard/preserv-UY/tree/main/data/_pk0002.01): Feito, analise facil.  Ver [issues/6](https://github.com/digital-guard/preserv-UY/issues/6). 
-
-**Data inicio**: 11/2/2023
-
-**horas liquidas** estimadas: 80hs (pendente confirmação)
-
-**Data fim**: 15/4/2023
 
 **Empreitadas relacionadas**: 
 * ... 
