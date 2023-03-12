@@ -25,19 +25,19 @@ Análise e criação do make_conf.yaml dos seguintes dados:
 
 1. PE-CUS-Cusco: tarefa de converter readme antigo em novo
 
-1. BR-BA-Salvador
-1. BR-DF-Brasilia
-1. BR-PR-Londrina: 
-1. BR-RS-Bage
-1. BR-RS-Carazinho
-1. BR-RS-Gravatai
+1. BR-BA-Salvador: Ingestão OK, falta publicar e dazer readme
+1. BR-DF-Brasilia: Sendo feito a parte
+1. BR-PR-Londrina: Falta Readme.md
+1. BR-RS-Bage: Feito
+1. BR-RS-Carazinho: 
+1. BR-RS-Gravatai: Falta o Readme.md
 1. BR-RS-NovoHamburgo
 1. BR-RS-SantaRosa
 1. BR-SC-AntonioCarlos
-1. BR-SC-Itajai
-1. BR-SC-Lages
+1. BR-SC-Itajai: falta o readme.md
+1. BR-SC-Lages: 
 1. BR-SC-Xanxere
-1. BR-SP-Jacarei
+1. BR-SP-Jacarei: Feito
 
 1. [CL-LL-PuertoMontt/_pk0002.01](https://github.com/digital-guard/preserv-CL/tree/main/data/LL/PuertoMontt/_pk0002.01): Feito, analise facil.
 
