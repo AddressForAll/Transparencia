@@ -58,6 +58,8 @@ Análise e criação do make_conf.yaml dos seguintes dados:
 
 1. [UY (Correo-Uruguayo) /_pk0002.01](https://github.com/digital-guard/preserv-UY/tree/main/data/_pk0002.01): Feito, analise facil.  Ver [issues/6](https://github.com/digital-guard/preserv-UY/issues/6). 
 
+Miraflores	Miraflores
+
 **Empreitadas relacionadas**: 
 * ... 
 
