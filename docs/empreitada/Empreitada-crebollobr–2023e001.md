@@ -31,22 +31,23 @@ Análise e criação do make_conf.yaml dos seguintes dados:
 1. PE-CUS-Cusco: tarefa de converter readme antigo em novo
 2. BR-BA-Neoenergia: Falta tipo de dado
 3. BR-PE-Neoenergia: Falta tipo de dado
-4. BR-PR-Umuarama: não entendi os dados, numeração de lotes
-5. BR-BA-Salvador: Ingestão OK. [BR-BA-Salvador/_pk0050.01](https://github.com/digital-guard/preserv-BR/tree/main/data/BA/Salvador/_pk0050.01). Feito analise complicada.
-6. BR-DF-Brasilia: Sendo feito a parte
-7. BR-PR-Londrina: Falta Readme.md
-8. BR-RS-Bage: Feito
-9. BR-RS-Carazinho: 
-10. BR-RS-Gravatai: Falta o Readme.md
-11. BR-RS-NovoHamburgo
-12. BR-RS-SantaRosa
-13. BR-SC-AntonioCarlos
-14. BR-SC-Itajai: falta o readme.md
-15. BR-SC-Lages: 
-16. BR-SC-Xanxere
-17. BR-SP-Jacarei: Feito
-18. CL	IDE
-1. [CL-LL-PuertoMontt/_pk0002.01](https://github.com/digital-guard/preserv-CL/tree/main/data/LL/PuertoMontt/_pk0002.01): Feito, analise facil.
+4. SP-Neoenergia Falta tipo de dado
+5. BR-PR-Umuarama: não entendi os dados, numeração de lotes
+6. BR-BA-Salvador: Ingestão OK. [BR-BA-Salvador/_pk0050.01](https://github.com/digital-guard/preserv-BR/tree/main/data/BA/Salvador/_pk0050.01). Feito analise complicada.
+7. BR-DF-Brasilia: Sendo feito a parte
+8. BR-PR-Londrina: Falta Readme.md
+9. BR-RS-Bage: Feito
+10. BR-RS-Carazinho: 
+11. BR-RS-Gravatai: Falta o Readme.md
+12. BR-RS-NovoHamburgo
+13. BR-RS-SantaRosa
+14. BR-SC-AntonioCarlos
+15. BR-SC-Itajai: falta o readme.md
+16. BR-SC-Lages: 
+17. BR-SC-Xanxere
+18. BR-SP-Jacarei: Feito
+19. CL	IDE
+20. [CL-LL-PuertoMontt/_pk0002.01](https://github.com/digital-guard/preserv-CL/tree/main/data/LL/PuertoMontt/_pk0002.01): Feito, analise facil.
 
 1. [CO-VAC-Cali/_pk0007.01](https://github.com/digital-guard/preserv-CO/tree/main/data/VAC/Cali/_pk0007.01): Feito, analise dificil. Ver [issues/16](https://github.com/digital-guard/preserv-CO/issues/16). 
 2. EC	Azogues
