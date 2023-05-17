@@ -32,7 +32,7 @@ Análise e criação do make_conf.yaml dos seguintes dados:
 2. BR-BA-Neoenergia: Falta tipo de dado
 3. BR-PE-Neoenergia: Falta tipo de dado
 4. SP-Neoenergia Falta tipo de dado
-5. BR-PR-Umuarama: não entendi os dados, numeração de lotes
+5. BR-PR-Umuarama: não entendi os dados, numeração de lotes mesmo usando a planilha de dados 
 6. BR-BA-Salvador: Ingestão OK. [BR-BA-Salvador/_pk0050.01](https://github.com/digital-guard/preserv-BR/tree/main/data/BA/Salvador/_pk0050.01). Feito analise complicada.
 7. BR-DF-Brasilia: Sendo feito a parte
 8. BR-PR-Londrina: Falta Readme.md
