@@ -39,7 +39,7 @@ Análise e criação do make_conf.yaml dos seguintes dados:
 9. BR-RS-Bage: Feito
 10. BR-RS-Carazinho: 
 11. BR-RS-Gravatai: Falta o Readme.md
-12. BR-RS-NovoHamburgo
+12. BR-RS-NovoHamburgo: Feito
 13. BR-RS-SantaRosa
 14. BR-SC-AntonioCarlos
 15. BR-SC-Itajai: falta o readme.md
